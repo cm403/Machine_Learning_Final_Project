@@ -12,5 +12,5 @@ Predict signals from background noise.
 Analyze features and clean up data   
 Investigate and determine AUCROC   
 Compare Logistic Regression results for different processing of data  
-Investigate Gradient Boosted Tree models through Microsoft's LightGBM  
+Investigate Gradient Boosted Tree models with Microsoft's LightGBM  
 
