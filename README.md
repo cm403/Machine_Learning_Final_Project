@@ -14,3 +14,6 @@ Investigate and determine AUCROC
 Compare Logistic Regression results for different processing of data  
 Investigate Gradient Boosted Tree models with Microsoft's LightGBM  
 
+## Project
+The project file is final_project.ipynb
+
