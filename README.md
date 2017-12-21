@@ -19,4 +19,5 @@ The project file is final_project.ipynb
 
 ### Data
 Because the data files are large they can be downloaded from this link:  
-https://drive.google.com/drive/folders/1eWsILAP-UKsTqiSXmmU6-JMSfpFciMn2?usp=sharing
+https://drive.google.com/drive/folders/1eWsILAP-UKsTqiSXmmU6-JMSfpFciMn2?usp=sharing   
+###### (NYU.edu account needed to access)
